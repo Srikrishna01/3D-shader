@@ -1,0 +1,22 @@
+body
+{
+    margin: 0;
+    overflow: hidden;
+    background-color: thistle;
+}
+
+canvas{
+    background-color: white;
+}
+
+#instructions{
+    position: absolute;
+    color: rgb(56, 87, 7);
+    bottom: 0;
+    padding-bottom: 6px;
+    font-family: sans-serif;
+    width: 20px;
+    width: 100%;
+    text-align: center;
+    pointer-events: all;
+}
